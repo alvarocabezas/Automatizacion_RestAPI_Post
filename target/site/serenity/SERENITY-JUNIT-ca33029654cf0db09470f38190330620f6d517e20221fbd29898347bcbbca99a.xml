@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Information det individual user" skipped="0" tests="1" time="7.56" timestamp="2022-02-16 10:26:22"><testcase name="Send information get individual user with response success"><failure message="1 expectation failed.&#10;JSON path name doesn't match.&#10;Expected: jose&#10;  Actual: Alvaro&#10;" type="java.lang.AssertionError">1 expectation failed.
+JSON path name doesn't match.
+Expected: jose
+  Actual: Alvaro
+</failure><system-err>1 expectation failed.
+JSON path name doesn't match.
+Expected: jose
+  Actual: Alvaro
+&#13;
+co.com.practice.stepdefinitions.PostStepDefinition.iValidateGetResponseContainDataExpected(PostStepDefinition.java:69)&#13;
+✽.I validate get response contain data expected(file:///C:/Users/acabezasr/Desktop/EjercicioAutomatizacionRestPOST/src/test/resources/feature/Post.feature:12)&#13;
+</system-err></testcase></testsuite>
